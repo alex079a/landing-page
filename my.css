@@ -124,3 +124,26 @@ button{
     margin-top: 25px;
     color: grey;
 }
+
+.quote-div{
+    display: flex;
+    background-color:#E5E7EB;
+    flex-direction: column;
+
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    padding: 150px;
+    padding-bottom: 10px;
+    
+}
+
+.quoted{
+    font-size: 36px;
+    color: #1f2937;
+    text-align: right;
+    padding-right: 180px;
+}
