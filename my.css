@@ -84,3 +84,43 @@ button{
     text-align: center;
     margin-top: 120px;
 }
+
+.main{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.info{
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.box-column{
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 350px;
+    margin: 25px;
+    flex: 1;
+    margin-bottom: 0px;
+    
+}
+
+.div-text{
+    display: flex;
+    text-align: center;
+
+}
+.box-text{
+    flex: 1;
+    margin-top: 25px;
+    color: grey;
+}
