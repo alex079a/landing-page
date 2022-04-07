@@ -1,0 +1,27 @@
+
+body  {
+    margin: auto;
+    
+}
+
+.header  {
+    background-color: #1f2937;
+    display: flex;
+    
+}
+
+.hlogo  {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-left: 150px;
+    flex: 3;
+    
+}
+
+.hlink  {
+    font-size: 18px;
+    color: #E5E7EB;
+    flex: .5;
+    margin-right: 50px;
+    
+}
