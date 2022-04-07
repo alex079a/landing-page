@@ -182,3 +182,17 @@ button{
     border-style: solid;
     border-width: 3px;
 }
+
+.bottom-div{
+    display: flex;
+    background-color: #1f2937;
+    color: #E5E7EB;
+    height: 100px;
+}
+
+.copyright-txt{
+    font-size: 18px;
+    text-align: center;
+    flex: 1;
+    padding: 25px;
+}
