@@ -147,3 +147,38 @@ button{
     text-align: right;
     padding-right: 180px;
 }
+
+.blue-div{
+    background-color: #3882f6;
+    display: flex;
+    margin: 50px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    border-style: solid;
+    border-color: #1F2937;
+    border-width: 5px;
+}
+
+.sign-txt{
+    font-size: 28px;
+    color: #E5E7EB;
+    flex: 3;
+    padding: 25px;
+    padding-left: 50px;
+
+}
+
+.sign-button{
+    flex: 1;
+    padding: 60px;
+    padding-top: 80px;
+}
+
+.signb{
+    font-size: 28px;
+    border-color: #E5E7EB;
+    border-style: solid;
+    border-width: 3px;
+}
